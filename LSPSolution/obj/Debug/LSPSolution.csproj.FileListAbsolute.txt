@@ -1,0 +1,5 @@
+E:\Curso SOLID\LSPSolution\LSPSolution\obj\Debug\LSPSolution.csprojAssemblyReference.cache
+E:\Curso SOLID\LSPSolution\LSPSolution\obj\Debug\LSPSolution.Properties.Resources.resources
+E:\Curso SOLID\LSPSolution\LSPSolution\obj\Debug\LSPSolution.Login.resources
+E:\Curso SOLID\LSPSolution\LSPSolution\obj\Debug\LSPSolution.Views.Principal.resources
+E:\Curso SOLID\LSPSolution\LSPSolution\obj\Debug\LSPSolution.csproj.GenerateResource.cache
